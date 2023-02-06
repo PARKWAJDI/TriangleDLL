@@ -1,7 +1,7 @@
 
 # TriangleDLL
 
-Group Members
+**Group Members**
 1. Ahmad Wajdi Bin Hamid 2190770 (Library)
 2. Mizan Bin Mahadzir 2190772 (GUI)
 3. Nur Iman Bin Mohd Anuar 2190163 (Unit Test)
@@ -19,7 +19,7 @@ Group Members
 **For side**
 1. One constructor only because there are no parameter.
 
-![Screenshot (65)](https://user-images.githubusercontent.com/116859764/216878910-ed56b270-3f27-4661-a692-b1b2026502ef.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/116859764/216879530-3585bdcd-85b9-4352-9aa3-2f58de74e94b.png)
 
 2. there are four parameters used. (side@length, perimeter, area, angle)
 3. Unit test was successful.
