@@ -1,1 +1,44 @@
-# TriangleLibrary
+#TriangleDLL
+
+Group Members
+1. Ahmad Wajdi Bin Hamid 2190770 (Library)
+2. Mizan Bin Mahadzir 2190772 (GUI)
+3. Nur Iman Bin Mohd Anuar 2190163 (Unit Test)
+
+## Triangle Library:
+
+**For point**
+1. One constructor only because there are no parameter.
+
+![Screenshot (63)](https://user-images.githubusercontent.com/116859764/216878351-006478a6-ed7b-4e80-939c-4100a25f4d70.png)
+
+2. there are four parameters used. (side@length, perimeter, area, angle)
+3. Unit test was successful.
+
+**For side**
+1. One constructor only because there are no parameter.
+
+![Screenshot (65)](https://user-images.githubusercontent.com/116859764/216878910-ed56b270-3f27-4661-a692-b1b2026502ef.png)
+
+2. there are four parameters used. (side@length, perimeter, area, angle)
+3. Unit test was successful.
+
+## Triangle GUI
+
+## Gold Standard
+
+Goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
+
+Gold standard link for triangle calculator using side: 
+
+https://www.triangle-calculator.com/?q=a%3D5+b%3D3+c%3D6&submit=Solve
+
+Gold standard link for triangle calculator using point: 
+
+https://www.triangle-calculator.com/?what=vc&a=2&a1=5&3dd=3D&a2=&b=7&b1=4&b2=&c=5&c1=5&c2=&submit=Solve&3d=0
+
+
+
+
+
+
