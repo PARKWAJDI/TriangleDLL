@@ -30,7 +30,7 @@
 
 Link for triangle GUI:
 
-
+*https://github.com/MizanMahadzir/TriangleGUI/tree/main/TriangleGUI*
 
 ## Gold Standard
 
