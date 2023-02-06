@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.CopyComplete
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.xml
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.xml
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\bin\Debug\TriangleDLL.pdb
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.csproj.CopyComplete
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.dll
+C:\Users\PSCAD\Desktop\nero software\last\Triangle-main\Triangle-main\(2)TriangleDLL\TriangleDLL\TriangleDLL\obj\Debug\TriangleDLL.pdb
