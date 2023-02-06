@@ -13,16 +13,18 @@
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/116859764/216878351-006478a6-ed7b-4e80-939c-4100a25f4d70.png)
 
-2. there are four parameters used. (side@length, perimeter, area, angle)
-3. Unit test was successful.
+2. There are four parameters used. (Side@Length, Perimeter, Area, Angle)
+3. there is also operation to find reality of the triangle. (Real, Null, Imaginary)
+4. Unit test was successful.
 
 **For side**
 1. One constructor only because there are no parameter.
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/116859764/216879530-3585bdcd-85b9-4352-9aa3-2f58de74e94b.png)
 
-2. there are four parameters used. (side@length, perimeter, area, angle)
-3. Unit test was successful.
+2. There are three parameters used. (Perimeter, Area, Angle)
+3. there is also operation to find reality of the triangle. (Real, Null, Imaginary)
+4. Unit test was successful.
 
 ## Triangle GUI
 
